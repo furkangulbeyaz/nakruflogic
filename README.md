@@ -76,7 +76,7 @@ Sadece saniyeler içinde kurup kullanmaya başlayabilirsiniz:
    - Windows için: `%LocalAppData%\Roblox\Plugins\`
 3. Roblox Studio'yu yeniden başlatın.
 4. **Çok Önemli:** Oyun ayarlarından HTTP isteklerini açmayı unutmayın!  
-   `Game Settings > Security > Allow HTTP Requests`
+   `File > Experience Settings > Security > Allow HTTP Requests`
 
 <div align="center">
   <img src="assets/allowhttpreq.png" alt="HTTP İstekleri İzni" width="500" style="border-radius: 10px; margin-top: 10px; border: 2px solid #555;">
